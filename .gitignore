@@ -1,0 +1,19 @@
+# Virtual Environment
+attendance_env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Attendance files (optional)
+attendance/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
